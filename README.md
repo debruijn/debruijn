@@ -43,7 +43,7 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/debruijn/intervalues">Intervalues</a></td>
+      <td><a href="https://github.com/debruijn/intervalues">intervalues</a></td>
       <td>Python</td>
       <td>Efficient combining of intervals</td>
       <td>Active</td>
@@ -55,13 +55,13 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/cs2">CS aggregate rankings</a></td>
+      <td><a href="https://github.com/debruijn/cs2">cs aggregate rankings</a></td>
       <td>Python</td>
-      <td>Combine Counterstrike rankings</td>
+      <td>Show and combine Counterstrike rankings from various sources</td>
       <td>Active</td>
     </tr>
     <tr>
-      <td>Add BES to the Netherlands</td>
+      <td>add-bes-to-nl</td>
       <td>Python: Pillow</td>
       <td>Create or update Netherlands maps to include the BES islands</td>
       <td>WIP</td>
@@ -81,37 +81,31 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/debruijn/adventofcode">Adventofcode</a></td>
+      <td><a href="https://github.com/debruijn/adventofcode">adventofcode</a></td>
       <td>Python, Rust & Makefile</td>
       <td>My submissions to the yearly Advent Of Code challenge</td>
       <td>Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/sudoku-via-z3">Sudoku via z3</a></td>
+      <td><a href="https://github.com/debruijn/sudoku-via-z3">sudoku-via-z3</a></td>
       <td>Python & z3</td>
       <td>Solve sudoku's using the Z3 solver</td>
       <td>On hold</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/cs2">CS aggregate rankings</a></td>
-      <td>Python</td>
-      <td>Combine Counterstrike rankings</td>
-      <td>Active</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/debruijn/random">Random stuff</a></td>
+      <td><a href="https://github.com/debruijn/random">random</a></td>
       <td>Python, Makefile</td>
       <td>Random small tests and simulations</td>
       <td>Sporadically</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/my-rustlings">My rustlings</a></td>
+      <td><a href="https://github.com/debruijn/my-rustlings">my-rustlings</a></td>
       <td>Rust</td>
       <td>Learn Rust by following the rustlings project</td>
       <td>Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/corona-agnostic-impact">Corona-agnostic impact</a></td>
+      <td><a href="https://github.com/debruijn/corona-agnostic-impact">corona-agnostic-impact</a></td>
       <td>Python: Numpyro, Statsmodels, Tensorflow; Stan</td>
       <td>Modeling excess death rates in the Netherlands during covid</td>
       <td>On hold</td>
