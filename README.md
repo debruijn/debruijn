@@ -6,7 +6,7 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
 - 🌱 I’m currently learning Rust, especially for speeding up key functions in Python
 - ⚡ Fun fact: I am also learning Spanish - ¡Lo hablo un poco pero quiero aprender más!
 - 👯 I’m looking to collaborate on anything that interests me - feel free to reach out!
-<!-- - 🤔 I’m looking for help with finding a remote job lol 😅 -->
+- 🤔 I’m looking for help with finding a new remote job 😉
 - 💬 Ask me to help you with topics like:
   -   📈 (Bayesian) statistics, Econometrics, Forecasting, Modeling decisions
   -   🖥️ Python, Docker, Automation, Git, Linux
@@ -49,7 +49,7 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/cs-rankings">cs-rankings</a></td>
+      <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python: Selenium; Git</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
       <td>Active</td>
