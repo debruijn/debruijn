@@ -93,9 +93,9 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>On hold</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/random">random</a></td>
+      <td><a href="https://github.com/debruijn/random_stuff">random_stuff</a></td>
       <td>Python, Makefile</td>
-      <td>Random small tests and simulations</td>
+      <td>Random small experiments and simulations</td>
       <td>Sporadically</td>
     </tr>
     <tr>
