@@ -61,10 +61,10 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>Active</td>
     </tr>
     <tr>
-      <td>add-bes-to-nl</td>
+      <td><a href="https://github.com/debruijn/cs2">nl-maps</a></td>
       <td>Python: Pillow</td>
-      <td>Create or update Netherlands maps to include the BES islands</td>
-      <td>WIP</td>
+      <td> Create informative maps of the Netherlands, including the BES islands.</td>
+      <td>Active/WIP</td>
     </tr>
   </tbody>
 </table>
