@@ -99,13 +99,13 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>Sporadically</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/my-rustlings">my-rustlings</a></td>
+      <td><a href="https://github.com/debruijn/my_rustlings">my-rustlings</a></td>
       <td>Rust</td>
       <td>Learn Rust by following the rustlings project</td>
       <td>Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/corona-agnostic-impact">corona-agnostic-impact</a></td>
+      <td><a href="https://github.com/debruijn/corona_agnostic_impact">corona-agnostic-impact</a></td>
       <td>Python: Numpyro, Statsmodels, Tensorflow; Stan</td>
       <td>Modeling excess death rates in the Netherlands during covid</td>
       <td>On hold</td>
