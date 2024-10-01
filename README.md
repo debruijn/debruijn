@@ -55,7 +55,7 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/cs2">cs aggregate rankings</a></td>
+      <td><a href="https://github.com/debruijn/cs2">cs combined rankings</a></td>
       <td>Python</td>
       <td>Show and combine Counterstrike rankings from various sources</td>
       <td>Active</td>
@@ -109,6 +109,12 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td>Python: Numpyro, Statsmodels, Tensorflow; Stan</td>
       <td>Modeling excess death rates in the Netherlands during covid</td>
       <td>On hold</td>
+    </tr>
+    <tr>
+      <td>Website</td>
+      <td>HTML, CSS, Zola</td>
+      <td>A personal website including a blog, example work, etc</td>
+      <td>Forthcoming...</td>
     </tr>
   </tbody>
 </table>
