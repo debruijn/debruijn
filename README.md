@@ -32,12 +32,14 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
 <a href="https://github.com/debruijn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debruijn&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3>My open-source projects</h3>
+These are mainly hosted on Github with mirrors on Gitlab.
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>Project name</b></td>
       <td><b>Languages</b></td>
       <td><b>Description</b></td>
+      <td><b>Package link</b></td>
       <td><b>Status</b></td>
     </tr>
   </thead>
@@ -46,30 +48,42 @@ My name is Bert and I am a data scientist and econometrian from the Netherlands 
       <td><a href="https://github.com/debruijn/intervalues">intervalues</a></td>
       <td>Python</td>
       <td>Efficient combining of intervals</td>
+      <td><a href="https://pypi.org/project/intervalues/">PyPI</a></td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/debruijn/intervalues_rust">intervalues_rust</a></td>
+      <td>Rust</td>
+      <td>Efficient combining of intervals - but in Rust!</td>
+      <td><a href="https://crates.io/crates/intervalues/">Crates.io</a></td>
       <td>Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python: Selenium; Git</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
+      <td><a href="https://pypi.org/project/cs-rankings/">PyPI</a></td>
       <td>Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/cs2">cs combined rankings</a></td>
       <td>Python</td>
       <td>Show and combine Counterstrike rankings from various sources</td>
+      <td><a href="https://github.com/debruijn/cs2/blob/main/combined_cs2_rankings/optimal_score.md">Table</a></td>
       <td>Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/nl_maps">nl-maps</a></td>
       <td>Python: Pillow</td>
       <td> Create informative maps of the Netherlands, including the BES islands.</td>
+      <td><a href="https://pypi.org/project/nl-maps/">PyPI</a></td>
       <td>Active/WIP</td>
     </tr>
   </tbody>
 </table>
 
 <h4>Personal experimental projects (learning, curiosity, etc)</h4>
+These are mainly hosted on Gitlab with mirrors on Github.
 <table>
   <thead align="center">
     <tr border: none;>
