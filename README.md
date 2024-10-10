@@ -59,6 +59,13 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td>Active</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/debruijn/intfloat">intfloat</a></td>
+      <td>Rust</td>
+      <td>Fast and simple hashable float alternative using ints</td>
+      <td><a href="https://crates.io/crates/intfloat/">Crates.io</a></td>
+      <td>Active</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python: Selenium; Git</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
