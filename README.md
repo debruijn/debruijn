@@ -2,7 +2,7 @@
 
 > "Machine doing, human learning" - Me, 2024
 
-My name is Bert and I am a data scientist and econometrian from the Netherlands 🇳🇱 currently living on Bonaire 🇧🇶 in the Caribbean Netherlands.
+My name is Bert and I am a data scientist and econometrician from the Netherlands 🇳🇱 currently living on Bonaire 🇧🇶 in the Caribbean Netherlands.
 
 - 🔭 I’m currently working on my projects called intervalues, cs-rankings, and nl_maps (see below)
 - 🌱 I’m currently learning Rust, especially for speeding up key functions in Python
