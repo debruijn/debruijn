@@ -31,7 +31,7 @@ My name is Bert and I am a data scientist and econometrician from the Netherland
 </p>
 
 <!-- <a href="https://github.com/debruijn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=debruijn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> -->
-<a href="https://github.com/debruijn?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debruijn&layout=compact&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/debruijn?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debruijn&layout=compact&theme=transparent&hide_border=false&&langs_count=10" /></a>
 
 <h3>My open-source projects</h3>
 These are mainly hosted on Github with mirrors on Gitlab.
