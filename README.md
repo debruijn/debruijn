@@ -91,6 +91,8 @@ These are mainly hosted on Github with mirrors on Gitlab.
   </tbody>
 </table>
 
+For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVERVIEW.md](GITHUB_ACTIONS_OVERVIEW.md).
+
 <h4>Personal experimental projects (learning, curiosity, etc)</h4>
 These are mainly hosted on Gitlab with mirrors on Github.
 <table>
