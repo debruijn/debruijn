@@ -145,7 +145,13 @@ These are mainly hosted on Gitlab with mirrors on Github.
       <td><a href="https://github.com/debruijn/personal_website">personal-website</a></td>
       <td>HTML, CSS, Zola</td>
       <td>A personal website including a blog, example work, etc</td>
-      <td>To launch</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/debruijn/website_examples">website_examples</a></td>
+      <td>Rust, Python</td>
+      <td>Showing example code for entries on my website</td>
+      <td>Active</td>
     </tr>
   </tbody>
 </table>
