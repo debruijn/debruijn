@@ -142,7 +142,7 @@ These are mainly hosted on Gitlab with mirrors on Github.
       <td>On hold</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debruijn/personal_website">personal-website</a></td>
+      <td><a href="https://github.com/debruijn/debruijn.github.io">personal website</a></td>
       <td>HTML, CSS, Zola</td>
       <td>A personal website including a blog, example work, etc</td>
       <td>Active</td>
