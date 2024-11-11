@@ -4,15 +4,17 @@
 
 My name is Bert and I am a data scientist and econometrician from the Netherlands 🇳🇱 currently living on Bonaire 🇧🇶 in the Caribbean Netherlands.
 
-- 🔭 I’m currently working on my projects called intervalues, cs-rankings, and nl_maps (see below)
-- 🌱 I’m currently learning Rust, especially for speeding up key functions in Python
-- ⚡ Fun fact: I am also learning Spanish - ¡Lo hablo un poco pero quiero aprender más!
+- 🧑🏻‍🎓 I have a PhD in Econometrics with a specialization in forecasting
+- 🔉 After that, I have spent the majority of my career in media data world, modeling causal relationships between marketing campaigns and various types of KPIs
+- 🤔 I’m looking for help with finding a new remote job that can be done from Bonaire 😉
 - 👯 I’m looking to collaborate on anything that interests me - feel free to reach out!
-- 🤔 I’m looking for help with finding a new remote job 😉
+- 🔭 I’m currently working on projects called intervalues, cs-rankings and nl_maps (see below)
+- 🌱 I’m self-taught in various programming languages 
+- ⚡ Fun fact: I am also learning Spanish - ¡Lo hablo un poco pero quiero aprender más!
 - 💬 Ask me to help you with topics like:
-  -   📈 (Bayesian) statistics, Econometrics, Forecasting, Modeling decisions
-  -   🖥️ Python, Docker, Automation, Git, Linux
-  -   📺 Media data and Advertisement impact measurement
+  -   📈 (Bayesian) statistics, Econometrics, Forecasting, Modeling decisions, MCMC samplers
+  -   🖥️ Python, Docker, Automation, Git, Linux, Rust
+  -   📺 MMedia data, Advertisement impact measurement and Marketing effect estimation
 - 📫 How to reach me: [<img alt="Github" src="https://img.shields.io/badge/-Github-010409?style=flat-square&logo=github&logoColor=white" />](https://github.com/debruijn)
   [<img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-E2492F?style=flat-square&logo=gitlab&logoColor=white" />](http://gitlab.com/bert.debruijn)
   [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lpdebruijn)
