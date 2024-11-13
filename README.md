@@ -120,6 +120,12 @@ These are mainly hosted on Gitlab with mirrors on Github.
       <td>Active</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/debruijn/everybody.codes">everybody.codes</a></td>
+      <td>Rust & Makefile</td>
+      <td>My submissions to the Everybody Codes challenges</td>
+      <td>Active</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/debruijn/sudoku-via-z3">sudoku-via-z3</a></td>
       <td>Python & z3</td>
       <td>Solve sudoku's using the Z3 solver</td>
@@ -145,7 +151,7 @@ These are mainly hosted on Gitlab with mirrors on Github.
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/debruijn.github.io">personal website</a></td>
-      <td>HTML, CSS, Zola</td>
+      <td>Zola</td>
       <td>A personal website including a blog, example work, etc</td>
       <td>Active</td>
     </tr>
