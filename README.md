@@ -14,7 +14,7 @@ My name is Bert and I am a data scientist and econometrician from the Netherland
 - 💬 Ask me to help you with topics like:
   -   📈 (Bayesian) statistics, Econometrics, Forecasting, Modeling decisions, MCMC samplers
   -   🖥️ Python, Docker, Automation, Git, Linux, Rust
-  -   📺 MMedia data, Advertisement impact measurement and Marketing effect estimation
+  -   📺 Media data, Advertisement impact measurement and Marketing effect estimation
 - 📫 How to reach me: [<img alt="Github" src="https://img.shields.io/badge/-Github-010409?style=flat-square&logo=github&logoColor=white" />](https://github.com/debruijn)
   [<img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-E2492F?style=flat-square&logo=gitlab&logoColor=white" />](http://gitlab.com/bert.debruijn)
   [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lpdebruijn)
