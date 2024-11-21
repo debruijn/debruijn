@@ -95,8 +95,7 @@ These are mainly hosted on Github with mirrors on Gitlab.
 
 For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVERVIEW.md](GITHUB_ACTIONS_OVERVIEW.md).
 
-<h4>Personal experimental projects (learning, curiosity, etc)</h4>
-These are mainly hosted on Gitlab with mirrors on Github.
+<h4>Coding challenge repositories</h4>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -111,13 +110,13 @@ These are mainly hosted on Gitlab with mirrors on Github.
       <td><a href="https://github.com/debruijn/adventofcode">adventofcode</a></td>
       <td>Python, Rust & Makefile</td>
       <td>My submissions to the yearly Advent Of Code challenge</td>
-      <td>Active</td>
+      <td>Waiting for december..</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/adventofsql">adventofsql</a></td>
       <td>SQL & Python, Rust & Makefile</td>
       <td>My submissions to the upcoming Advent Of SQL challenge</td>
-      <td>Active</td>
+      <td>Waiting for december..</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/everybody.codes">everybody.codes</a></td>
@@ -125,6 +124,27 @@ These are mainly hosted on Gitlab with mirrors on Github.
       <td>My submissions to the Everybody Codes challenges</td>
       <td>Active</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/debruijn/codingquest">codingquest</a></td>
+      <td>R and more</td>
+      <td>My submissions to the Coding Quest challenges</td>
+      <td>Active</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Personal experimental projects (learning, curiosity, etc)</h4>
+These are mainly hosted on Gitlab with mirrors on Github.
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project name</b></td>
+      <td><b>Languages</b></td>
+      <td><b>Description</b></td>
+      <td><b>Status</b></td>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><a href="https://github.com/debruijn/sudoku-via-z3">sudoku-via-z3</a></td>
       <td>Python & z3</td>
