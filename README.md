@@ -161,6 +161,12 @@ These are mainly hosted on Gitlab with mirrors on Github.
       <td><a href="https://github.com/debruijn/my_rustlings">my-rustlings</a></td>
       <td>Rust</td>
       <td>Learn Rust by following the rustlings project</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/debruijn/my-odin-project">my-odin-project</a></td>
+      <td>HTML/CSS/JavaScript</td>
+      <td>Learn HTML/CSS/JavaScript by following the Odin Project</td>
       <td>Active</td>
     </tr>
     <tr>
