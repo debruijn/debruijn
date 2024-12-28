@@ -110,19 +110,19 @@ For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVER
       <td><a href="https://github.com/debruijn/adventofcode">adventofcode</a></td>
       <td>Python, Rust & Makefile</td>
       <td>My submissions to the yearly Advent Of Code challenge</td>
-      <td>Waiting for december..</td>
+      <td>On hold until next december</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/adventofsql">adventofsql</a></td>
       <td>SQL & Python, Rust & Makefile</td>
       <td>My submissions to the upcoming Advent Of SQL challenge</td>
-      <td>Waiting for december..</td>
+      <td>On hold until next december</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/everybody.codes">everybody.codes</a></td>
       <td>Rust & Makefile</td>
       <td>My submissions to the Everybody Codes challenges</td>
-      <td>Active</td>
+      <td>On hold until new challenges</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/codingquest">codingquest</a></td>
