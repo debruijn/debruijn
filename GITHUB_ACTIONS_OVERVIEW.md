@@ -9,7 +9,9 @@
   - Build and test
 - Intfloat:
   - Sync to Gitlab
-  -  Build and test
+  - Build and test
+- NoHashMap:
+  - Build and test
 - cs-rankings:
   - Sync to Gitlab
 - combined cs rankings:
