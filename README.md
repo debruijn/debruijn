@@ -73,7 +73,7 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td><a href="https://github.com/debruijn/nohashmap">NoHashMap</a></td>
       <td>Rust</td>
       <td>Dirty alternative to HashMap for nonhashable keys</td>
-      <td><a href="https://crates.io/crates/nonhashmap/">Crates.io</a></td>
+      <td><a href="https://crates.io/crates/nohashmap/">Crates.io</a></td>
       <td>Active</td>
     </tr>
     <tr>
