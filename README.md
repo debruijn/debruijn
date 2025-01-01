@@ -70,6 +70,13 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td>Active</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/debruijn/nohashmap">NoHashMap</a></td>
+      <td>Rust</td>
+      <td>Dirty alternative to HashMap for nonhashable keys</td>
+      <td><a href="https://crates.io/crates/nonhashmap/">Crates.io</a></td>
+      <td>Active</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python: Selenium; Git</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
