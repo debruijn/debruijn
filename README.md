@@ -78,7 +78,7 @@ These are mainly hosted on Github with mirrors on Gitlab.
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/rust_itertools">rust_itertools</a></td>
-      <td>Rust</td>
+      <td>Rust & Python</td>
       <td>Run Rusts itertools in Python</td>
       <td><a href="https://pypi.org/project/rust-itertools/">PyPI</a></td>
       <td>Experimental phase</td>
