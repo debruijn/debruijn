@@ -109,6 +109,24 @@ These are mainly hosted on Github with mirrors on Gitlab.
 
 For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVERVIEW.md](GITHUB_ACTIONS_OVERVIEW.md).
 
+<h4>Other contributions</h4>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project name</b></td>
+      <td><b>Languages</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/more-itertools">more-itertools</a></td>
+      <td>Python</td>
+      <td>Include derangements: <a href="https://github.com/more-itertools/more-itertools/pull/938">PR 938</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <h4>Coding challenge repositories</h4>
 <table>
   <thead align="center">
