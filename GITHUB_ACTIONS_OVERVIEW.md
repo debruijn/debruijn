@@ -12,6 +12,8 @@
   - Build and test
 - NoHashMap:
   - Build and test
+- rust_itertools:
+  - Build, lint, test and publish
 - cs-rankings:
   - Sync to Gitlab
 - combined cs rankings:
