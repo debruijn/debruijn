@@ -77,6 +77,13 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td>Active</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/debruijn/rust_itertools">rust_itertools</a></td>
+      <td>Rust</td>
+      <td>Run Rusts itertools in Python</td>
+      <td><a href="https://pypi.org/project/rust-itertools/">PyPI</a></td>
+      <td>Experimental phase</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python: Selenium; Git</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
