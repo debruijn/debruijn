@@ -84,6 +84,13 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td>Experimental phase</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/debruijn/derangements">derangements</a></td>
+      <td>Rust</td>
+      <td>Create derangements of iterables</td>
+      <td><a href="https://crates.io/crates/derangements/">Crates.io</a></td>
+      <td>Experimental phase</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python: Selenium; Git</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
