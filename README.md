@@ -43,7 +43,7 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td><b>Project name</b></td>
       <td><b>Languages</b></td>
       <td><b>Description</b></td>
-      <td><b>Package link</b></td>
+      <td><b>Output</b></td>
       <td><b>Status</b></td>
     </tr>
   </thead>
@@ -148,20 +148,20 @@ For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVER
     <tr>
       <td><a href="https://github.com/debruijn/adventofcode">adventofcode</a></td>
       <td>Python, Rust & Makefile</td>
-      <td>My submissions to the yearly Advent Of Code challenge</td>
+      <td>My submissions to the yearly Advent Of Code event</td>
       <td>On hold until next december</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/adventofsql">adventofsql</a></td>
       <td>SQL & Python, Rust & Makefile</td>
-      <td>My submissions to the upcoming Advent Of SQL challenge</td>
+      <td>My submissions to the Advent Of SQL event</td>
       <td>On hold until next december</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/everybody.codes">everybody.codes</a></td>
       <td>Rust & Makefile</td>
-      <td>My submissions to the Everybody Codes challenges</td>
-      <td>On hold until new challenges</td>
+      <td>My submissions to the Everybody Codes event</td>
+      <td>On hold until new event</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/codingquest">codingquest</a></td>
