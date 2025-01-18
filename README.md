@@ -129,7 +129,7 @@ For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVER
     <tr>
       <td><a href="https://github.com/more-itertools">more-itertools</a></td>
       <td>Python</td>
-      <td>Include derangements: <a href="https://github.com/more-itertools/more-itertools/pull/938">PR 938</a></td>
+      <td>Include derangements: <a href="https://github.com/more-itertools/more-itertools/issues/937">Issue 937</a>, <a href="https://github.com/more-itertools/more-itertools/pull/938">PR 938</a>, <a href="https://github.com/more-itertools/more-itertools/pull/946">PR 946</a></td>
     </tr>
   </tbody>
 </table>
