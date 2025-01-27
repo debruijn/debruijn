@@ -92,7 +92,7 @@ These are mainly hosted on Github with mirrors on Gitlab.
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
-      <td>Python: Selenium; Git</td>
+      <td>Python (Selenium); Git tables</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
       <td><a href="https://pypi.org/project/cs-rankings/">PyPI</a></td>
       <td>Active</td>
@@ -106,7 +106,7 @@ These are mainly hosted on Github with mirrors on Gitlab.
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/nl_maps">nl-maps</a></td>
-      <td>Python: Pillow</td>
+      <td>Python (Pillow)</td>
       <td> Create informative maps of the Netherlands, including the BES islands.</td>
       <td><a href="https://pypi.org/project/nl-maps/">PyPI</a></td>
       <td>Active/WIP</td>
@@ -165,7 +165,7 @@ For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVER
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/codingquest">codingquest</a></td>
-      <td>R and more</td>
+      <td>Javascript and R</td>
       <td>My submissions to the Coding Quest challenges</td>
       <td>Active</td>
     </tr>
