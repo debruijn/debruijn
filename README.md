@@ -67,35 +67,35 @@ These are mainly hosted on Github with mirrors on Gitlab.
       <td>Rust</td>
       <td>Fast and simple hashable float alternative using ints</td>
       <td><a href="https://crates.io/crates/intfloat/">Crates.io</a></td>
-      <td>Active</td>
+      <td>Maintenance</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/nohashmap">NoHashMap</a></td>
       <td>Rust</td>
       <td>Dirty alternative to HashMap for nonhashable keys</td>
       <td><a href="https://crates.io/crates/nohashmap/">Crates.io</a></td>
-      <td>Active</td>
+      <td>Maintenance</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/rust_itertools">rust_itertools</a></td>
       <td>Rust & Python</td>
       <td>Run Rusts itertools in Python</td>
       <td><a href="https://pypi.org/project/rust-itertools/">PyPI</a></td>
-      <td>Experimental phase</td>
+      <td>Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/derangements">derangements</a></td>
       <td>Rust</td>
       <td>Create derangements of iterables</td>
       <td><a href="https://crates.io/crates/derangements/">Crates.io</a></td>
-      <td>Experimental phase</td>
+      <td>Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/cs_rankings">cs-rankings</a></td>
       <td>Python (Selenium); Git tables</td>
       <td>Pull Counterstrike rankings from HLTV, Valve and ESL in one format</td>
       <td><a href="https://pypi.org/project/cs-rankings/">PyPI</a></td>
-      <td>Active</td>
+      <td>Maintenance</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/cs2">cs combined rankings</a></td>
@@ -150,6 +150,12 @@ For an overview of my used Github Actions within these, see [GITHUB_ACTIONS_OVER
       <td>Python, Rust & Makefile</td>
       <td>My submissions to the yearly Advent Of Code event</td>
       <td>On hold until next december</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/debruijn/more-adventofcode">more-adventofcode</a></td>
+      <td>Javascript & more to come</td>
+      <td>Solutions in different languages </td>
+      <td>Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/debruijn/adventofsql">adventofsql</a></td>
